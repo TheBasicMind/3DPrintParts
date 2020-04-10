@@ -12,6 +12,14 @@ the x and y plane and move the hole in the step file accomodating the bracket an
 have to move the motor on the cross bar extrusion (not too bad, but best avoided if you have everything working well already.
 Or worse, if you didn't follow the precise y positioning for the crossbar, move the cross bar extrusion itself (big job!)
 
+3. Corner brackets are also included that can be used to connect the sheets at the top of the encolsure. However the .step
+file does not include the holes for fixing these in place. Consider adding the holes if you are going to use the brackets
+in place of glue. I used the brackets because I buit my enclosure out of Polycarbonate, which supports higher temperatures
+without warping. Epoxy based Polycarbonate glues don't support the same temperatures and didn't fancy using 
+Methylene Chloride to fuse the sheets as I was worried about getting it wrong and spoiling the parts. You may feel more
+confident in success than me. If successful Methylene Chloride probably gives the best result. Indeed now the brackets are 
+in place they provide the perfect jig for keeping the parts correctly oriented and "clamped" for the fusing to succeed.
+
 Note if the rails are fixed in stopper position A there will be room for a filament spool placed at the rear of the print
 bed within the printer enclosure. Nice!
 
