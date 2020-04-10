@@ -1,7 +1,7 @@
 SK-Go Enclosure
 
 The enclosure step files have been sized specifically to match the dimensions of my SK-Go as built. There are some places
-where the dimensions of the SK-Go build can vary according to the builders preference.
+where the dimensions of the SK-Go build can vary according to the builder's preference.
 
 1. The height of the lower horizontal extrusions. On my SK-Go the horizontal extrusions are 20mm above Z=0 (the table the
 printer is on) if the plastic pads/feet are included. 16mm to the bottom of the vertically oriented extrusions if the 
