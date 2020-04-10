@@ -1,0 +1,20 @@
+SK-Go Enclosure
+
+The enclosure step files have been sized specifically to match the dimensions of my SK-Go as built. There are some places
+where the dimensions of the SK-Go build can vary according to the builders preference.
+
+1. The height of the lower horizontal extrusions. On my SK-Go the horizontal extrusions are 20mm above Z=0 (the table the
+printer is on) if the plastic pads/feet are included. 16mm to the bottom of the vertically oriented extrusions if the 
+pads/feet are not fitted. The design should support some small variation (approx +/- 2mm) to this height.
+
+2. The z motor location is not completely fixed. It will be easiest to measure exactly where your z motor is located on 
+the x and y plane and move the hole in the step file accomodating the bracket and the motor to match. Otherwise you may
+have to move the motor on the cross bar extrusion (not too bad, but best avoided if you have everything working well already.
+Or worse, if you didn't follow the precise y positioning for the crossbar, move the cross bar extrusion itself (big job!)
+
+Note if the rails are fixed in stopper position A there will be room for a filament spool placed at the rear of the print
+bed within the printer enclosure. Nice!
+
+Enjoy!
+
+Paul Lancefield
