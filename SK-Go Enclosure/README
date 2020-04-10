@@ -3,6 +3,9 @@ SK-Go Enclosure
 The enclosure step files have been sized specifically to match the dimensions of my SK-Go as built. There are some places
 where the dimensions of the SK-Go build can vary according to the builder's preference.
 
+The holes can be CNC'd with 1/8" mill bit. I CNC'd the large parts with a 1/4" mill bit. There are four corners with half
+dogbone holes to allow the parts to mate squarely and these can be milled with 1/8" mill bits. 
+
 1. The height of the lower horizontal extrusions. On my SK-Go the horizontal extrusions are 20mm above Z=0 (the table the
 printer is on) if the plastic pads/feet are included. 16mm to the bottom of the vertically oriented extrusions if the 
 pads/feet are not fitted. The design should support some small variation (approx +/- 2mm) to this height.
