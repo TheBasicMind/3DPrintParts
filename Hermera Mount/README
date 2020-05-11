@@ -1,0 +1,20 @@
+Hemera Mount for SK-Go
+
+The step files are sized for perfect fit (e.g. the sheet material is 3mm and the pockets sizes are 3mm). In setting
+up the CAM toolpaths for the CNC work I set stock to leave as 0.0. In effect this means approimately an additional 0.1mm  
+will be removed from the part. This resulted in a tight press fit, where clamps were required to assemble the part. 
+
+Pockets with square corners
+
+The pocket corners have not been rounded because the mill bit size is not pressuposed. The part can be machined using
+1/4 inch and 1/8th inch mill bits or smaller metric equivalents. Use 1/8th inch where required for the smaller pockets.
+Pocket corners have been left square so inside corner radii can conveniently match the selected tool size.
+
+Once the press fitting is made, it will be difficult if not impossible to dissassemble without damaging the parts. 
+Therefore double check all parts are correctly oriented before proceeding. In particular pay attendion to the L 
+shaped cooling fan bracket leg and the additional cutout on the top part which needs to be oriented the right way to allow space for the Hemera
+filament loading level to be operated. 
+
+Enjoy
+
+Paul Lancefield

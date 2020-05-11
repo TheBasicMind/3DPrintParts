@@ -1,0 +1,35 @@
+SK-Go Enclosure
+
+The enclosure step files have been sized specifically to match the dimensions of my SK-Go as built. There are some places
+where the dimensions of the SK-Go build can vary according to the builder's preference.
+
+The holes can be CNC'd with 1/8" mill bit. I CNC'd the large parts with a 1/4" mill bit. There are four corners with half
+dogbone holes to allow the parts to mate squarely and these can be milled with 1/8" mill bits. 
+
+1. The height of the lower horizontal extrusions. On my SK-Go the horizontal extrusions are 20mm above Z=0 (the table the
+printer is on) if the plastic pads/feet are included. 16mm to the bottom of the vertically oriented extrusions if the 
+pads/feet are not fitted. The design should support some small variation (approx +/- 2mm) to this height.
+
+2. The z motor location is not completely fixed. It will be easiest to measure exactly where your z motor is located on 
+the x and y plane and move the hole in the step file accomodating the bracket and the motor to match. Otherwise you may
+have to move the motor on the cross bar extrusion (not too bad, but best avoided if you have everything working well already.)
+Or worse, if you didn't follow the precise y positioning for the crossbar, move the cross bar extrusion itself (big job!)
+
+3. Corner brackets are also included that can be used to connect the sheets at the top of the encolsure. However the .step
+file does not include the holes for fixing these in place. Consider adding the holes if you are going to use the brackets
+in place of glue. I used the brackets because I buit my enclosure out of Polycarbonate, which supports higher temperatures
+without warping. Epoxy based Polycarbonate glues don't support the same temperatures and didn't fancy using 
+Methylene Chloride to fuse the sheets as I was worried about getting it wrong and spoiling the parts. You may feel more
+confident in success than me. If successful Methylene Chloride probably gives the best result. Indeed now the brackets are 
+in place they provide the perfect jig for keeping the parts correctly oriented and "clamped" for the fusing to succeed.
+
+4. Hinges. The hinge hole spacing matches the hinges that can be found here:
+
+https://ooznest.co.uk/product/folding-hinge/
+
+Note if the rails are fixed in stopper position A there will be room for a filament spool placed at the rear of the print
+bed within the printer enclosure. Nice!
+
+Enjoy!
+
+Paul Lancefield
