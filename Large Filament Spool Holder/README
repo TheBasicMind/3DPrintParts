@@ -1,0 +1,5 @@
+Large Filament Spoolholder
+
+This spoolholder allows a very 2 or 3 kg filament spool to rotate inside my SK-Go printer below the bed. When using the spool holder the z height of the printer is effectively reduced. However it is rare I print engineering parts that require the full z height.
+
+ The spoolholder has been designed to use some spare 62mm OD, 15mm ID, 16mm width deep-groove ballbearings I had after I changed my Lathe bearings. These are  over-specified for this role. Still I had them spare so they are what I used.
